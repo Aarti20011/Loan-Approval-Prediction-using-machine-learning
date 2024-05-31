@@ -14,4 +14,4 @@ Armed with insights from the EDA, I set out to build a predictive model that cou
 
 📈 Results and Insights:
 
-The results were enlightening! My model achieved an impressive accuracy of 82% and an AUC of 0.74. This underscores the power of data-driven decision-making and how it can drive positive outcomes.
+The results were enlightening! My model achieved an impressive accuracy of 82% and an AUC of 0.82%. This underscores the power of data-driven decision-making and how it can drive positive outcomes.
